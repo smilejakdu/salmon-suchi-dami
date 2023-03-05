@@ -1,21 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          밴드 연어 초밥 da mi
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/@salmon_sushi0621"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          go to youtube
         </a>
       </header>
     </div>
